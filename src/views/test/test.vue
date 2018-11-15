@@ -1,6 +1,14 @@
 <template>
   <div class="rule page">
-    test
+    <router-link tag="li" to="/line">
+      line
+    </router-link>
+    <router-link tag="li" to="/pie">
+      pie
+    </router-link>
+    <router-link tag="li" to="/bar">
+      bar
+    </router-link>
   </div>
 </template>
 

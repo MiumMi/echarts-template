@@ -7,7 +7,7 @@ import store from './store'
 import directive from './directive/index'
 import { vuemixin } from './vuemixin/allmixin'
 import api from './api/ajax'
-import chart from './lib/chart'
+import chart from './lib/drawOfEchart'
 import help from './lib/service'
 import {
   /* eslint-disable no-unused-vars */
